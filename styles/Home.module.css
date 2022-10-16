@@ -45,16 +45,7 @@
   font-size: 4rem;
 }
 
-.title,
-.description {
-  text-align: center;
-}
 
-.description {
-  margin: 4rem 0;
-  line-height: 1.5;
-  font-size: 1.5rem;
-}
 
 .code {
   background: #fafafa;
@@ -113,5 +104,6 @@
     width: 100%;
     flex-direction: column;
   }
+
 }
 
